@@ -66,6 +66,8 @@ What is the average number of pizzas per order?
 
 How do sales vary by pizza size?
 
+Clone https://github.com/Aman1238-Aman/Pizza-Sales----Sql.git
+
 ⚙️ How to Use
 
 Import the dataset into your SQL database
