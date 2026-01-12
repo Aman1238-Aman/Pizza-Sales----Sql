@@ -96,3 +96,4 @@ Reflects how data is used in actual business decisions
 
 📂 Connect with Python for deeper analytics
 ![image alt](https://github.com/Aman1238-Aman/Pizza-Sales----Sql/blob/6a6905f11cb9971f620eaad8c809a064f612afd9/2.png)
+![image alt](https://github.com/Aman1238-Aman/Pizza-Sales----Sql/blob/4c9a11d565ed5099081e417e5149f21562ba0456/readme%201.png)
