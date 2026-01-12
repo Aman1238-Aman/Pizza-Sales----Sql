@@ -95,5 +95,4 @@ Reflects how data is used in actual business decisions
 🧪 Automate reporting queries
 
 📂 Connect with Python for deeper analytics
-![image alt](<img width="1481" height="806" alt="image" src="https://github.com/user-attachments/assets/0b906447-7844-47f3-b166-3ec48108fdfd" />)
-
+![image alt](https://github.com/Aman1238-Aman/Pizza-Sales----Sql/blob/6a6905f11cb9971f620eaad8c809a064f612afd9/2.png)
